@@ -142,24 +142,6 @@ The project is organized into the following directories:
   riscv64-unknown-elf-gdb your-program
   ```
 
-## Submission Guidelines
-
-1. **Run All Tests**: Ensure all tests pass before submission.
-2. **Create a Submission Archive**: Use the provided script or manually create a `.zip` file containing all relevant files.
-3. **Submit via CMS**: Upload the `.zip` file to the CMS system by the deadline.
-
-### Deadlines
-- **Project Submission**: September 30, 2024, 23:59.
-
-Late submissions will receive 0 points.
-
-## Collaboration Policy
-
-- **Permitted**: Discussing high-level concepts and debugging strategies with peers.
-- **Not Permitted**: Sharing code, copying code from others, or using code from previous years.
-
-Each student must contribute to the project and describe their contribution in `CONTRIBUTIONS.md`. The course staff may request individual explanations of your work.
-
 ## Additional Resources
 
 - **RISC-V ISA Documentation**: [RISC-V Specifications](https://riscv.org/specifications/)
